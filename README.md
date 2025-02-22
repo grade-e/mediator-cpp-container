@@ -1,13 +1,13 @@
-# class-cpp-container-template
+# mediator-cpp-container
 
 ## Build
 
 ```zsh
-docker build -t simple-class-cpp .
+docker build -t mediator-cpp .
 ```
 
 ## Run
 
 ```zsh
-docker run --rm simple-class-cpp
+docker run --rm mediator-cpp
 ```
